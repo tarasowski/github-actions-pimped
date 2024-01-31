@@ -13,4 +13,4 @@ jobs:
       - name: Run greeting action
         uses: tarasowski/greeting@main
         with:
-          name: 'Dimitri Tarasowski'
+          name: 'Christoph Raupach'
