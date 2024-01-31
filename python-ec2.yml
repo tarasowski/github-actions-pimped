@@ -12,6 +12,10 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v2
+        # An action is a reusable piece of code that can perform a specific task, like checking out your code, setting up a programming language environment, deploying your code, and so on.
+        # The actions/ part of uses: actions/checkout@v2 refers to the GitHub organization that maintains the action. In this case, actions is the official GitHub organization that maintains many common actions. checkout is the name of the action, and @v2 specifies the version of the action to use.
+        # Actions can be defined in your own repository, in a public repository, or in a Docker image, and they can be written in any language that can run on GitHub-hosted runners.
+        # let's build own action
         with:
           python-version: '3.x'
 
