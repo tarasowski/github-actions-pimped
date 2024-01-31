@@ -1,2 +1,2 @@
-# github-actions-pimped
+# Github Actions Test
 Simple test to run github actions
