@@ -1,3 +1,3 @@
 # Github Actions Test
 Simple test to run github actions
-Test
+Test 2
